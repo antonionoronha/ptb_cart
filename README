@@ -1,0 +1,32 @@
+Para instalação:
+
+Baixar o repositório:
+git clone https://github.com/antonionoronha/ptb_cart
+
+Entrar na pasta do projeto:
+cd ptb_cart
+
+Entrar na pasta do FrontEnd:
+cd frontend
+
+Instalar dependências do FrontEnd:
+npm install
+
+Voltar à pasta raiz:
+cd ..
+
+Instalar dependências do projeto:
+npm install
+
+Para inicar o BackEnd:
+npm start
+
+Para iniciar o FrontEnd:
+cd frontend
+npm start
+
+Para popular o banco de dados:
+http://localhost:5000/api/products/seed
+
+
+
